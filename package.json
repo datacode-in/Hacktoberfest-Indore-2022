@@ -1,0 +1,23 @@
+{
+  "name": "datacode-hacktoberfest-indore-2022",
+  "version": "1.0.0",
+  "description": "hacktoberfest indore session",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srashtisj/datacode-hacktoberfest-indore-2022.git"
+  },
+  "keywords": [
+    "hacktoberfest",
+    "indore"
+  ],
+  "author": "srashtisj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srashtisj/datacode-hacktoberfest-indore-2022/issues"
+  },
+  "homepage": "https://github.com/srashtisj/datacode-hacktoberfest-indore-2022#readme"
+}
