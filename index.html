@@ -1,0 +1,82 @@
+<h1>Hacktoberfest Indore 2022</h1>
+<h2>Contributers</h2>
+<div id="table"></div>
+
+<footer>
+  <p>
+    &copy <a href="https://github.com/datacode-in" target="_blank">datacode</a>
+  </p>
+</footer>
+
+<script src="https://unpkg.com/gridjs/dist/gridjs.umd.js"></script>
+<link
+  href="https://unpkg.com/gridjs/dist/theme/mermaid.min.css"
+  rel="stylesheet"
+/>
+
+<script>
+  window.onload = function () {
+    fetch("./data.json")
+      .then((response) => response.json())
+      .then((profiles) => {
+        new gridjs.Grid({
+          columns: [
+            {
+              name: "image",
+              formatter: (cell) =>
+                gridjs.html(`<img height="80" width="80" src="${cell}"/>`),
+            },
+            "Github",
+            "Firstname",
+            "Lastname",
+            "About",
+          ],
+          data: profiles.data,
+          className: {
+            table: "table-body",
+          },
+        }).render(document.getElementById("table"));
+      })
+      .catch((err) => console.log(err));
+  };
+</script>
+
+<style>
+  body {
+    font-family: "Segoe UI", sans-serif;
+  }
+
+  h1,
+  h2,
+  p {
+    text-align: center;
+  }
+
+  h1 {
+    margin-top: 50px;
+    margin-bottom: -10px;
+    font-size: 45px;
+    color: #323333;
+  }
+
+  h2 {
+    color: #323333;
+  }
+
+  footer > p {
+    font-size: 13px;
+    margin-top: -25px;
+  }
+
+  a {
+    color: #6b7280;
+  }
+
+  #table {
+    margin: 50px 50px;
+  }
+
+  .table-body {
+    color: #323333;
+  }
+</style>
