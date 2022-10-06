@@ -1,0 +1,37 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+}
+
+h1 {
+  margin-top: 50px;
+  margin-bottom: -10px;
+  font-size: 45px;
+  color: #323333;
+}
+
+h2 {
+  color: #323333;
+}
+
+footer > p {
+  font-size: 13px;
+  margin-top: -25px;
+}
+
+a {
+  color: #6b7280;
+}
+
+#table {
+  margin: 50px 50px;
+}
+
+.table-body {
+  color: #323333;
+}
