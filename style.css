@@ -35,3 +35,8 @@ a {
 .table-body {
   color: #323333;
 }
+
+.header{
+  display: flex;
+  justify-content: center;
+}
