@@ -2,7 +2,7 @@
   "data": [
     {
       "github": "srashtisj",
-      "firstname": "Srashti",
+      "firstname": "Srashti ",
       "lastname": "Jain",
       "about": "Founder TechVraksh | Google Developer Expert (Angular)",
       "image": "https://github.com/srashtisj.png"
@@ -20,6 +20,108 @@
       "lastname": "Rathore",
       "about": "Student , who is learning something",
       "image": "https://github.com/deepakp-rathore.png"
+    },
+    {
+      "github": "K-Daksh",
+      "firstname": "Daksh",
+      "lastname": "Kitukale",
+      "about": "Competetive coder | Web developer",
+      "image": "https://github.com/K-Daksh.png"
+    },
+
+    {
+      "github": "atharvagadkari05",
+      "firstname": "Atharva",
+      "lastname": "Gadkari",
+      "about": "Backend Developer | Open-Source Contributor @AsyncAPI",
+      "image": "https://github.com/atharvagadkari05.png"
+    },
+
+    {
+      "github": "Psudopodiya",
+      "firstname": "Chinmay",
+      "lastname": "Raiker",
+      "about": " Nope | Expert in nothing",
+      "image": "https://avatars.githubusercontent.com/u/65434371?v=4"
+    },
+    {
+      "github": "GOS",
+      "firstname": "Abhinav ",
+      "lastname": "Sharma",
+      "about": "Founder Global Offensive Seurity | Cyber Crime & Cyber Fraud Expert (Certified by Indian Government)",
+      "image": "https://github.com/abhinavsharm.png"
+    },
+    {
+      "github": "vinaypanwar280",
+      "firstname": "Vinay",
+      "lastname": "Panwar",
+      "about": "Software Engineer | Student | Self Enthusiast",
+      "image": "https://avatars.githubusercontent.com/u/68241820?v=4"
+    },
+
+    {
+      "github": "AbhayMishra2004",
+      "firstname": "Abhay",
+      "lastname": "Mishra",
+      "about": "B.tech (cse) | Web Developer",
+      "image": "https://github.com/AbhayMishra.png"
+    },
+    {
+      "github": "Purvi-sai",
+      "firstname": "Purvi",
+      "lastname": "Choure",
+      "about": "A 2nd year student at iips DAVV| Data science enthusiast",
+      "image": "https://github.com/Purvi-sai.png"
+    },
+    {
+      "github": "palak-k5",
+      "firstname": "palak",
+      "lastname": "kumrawat",
+      "about": "IIPS DAVV | Quick Learner  | Android developer |",
+      "image": "https://github.com/palak-k5.png"
+    },
+    {
+      "github": "paridhik010",
+      "firstname": "paridhi",
+      "lastname": "kaigaokar",
+      "about": "developer of java",
+      "image": "https://github.com/paridhik010.png"
+    },
+    {
+      "github": "gc9669",
+      "firstname": "gyaneshwar",
+      "lastname": "choudhary",
+      "about": "Founder TechVraksh | Google Developer Expert (Angular)",
+      "image": "https://github.com/GC9669.png"
+    },
+
+    {
+      "github": "deepakpatel-7",
+      "firstname": "Deepak",
+      "lastname": "Patel",
+      "about": "web developer and competetive coder",
+      "image": "https://github.com/deepakpatel-7.png"
+    },
+    {
+      "github": "Addy-Devil",
+      "firstname": "Aryan",
+      "lastname": "Dame",
+      "about": "Student",
+      "image": "https://github.com/AddyDevil.png"
+    },
+    {
+      "github": "Arunim313",
+      "firstname": "Arunim",
+      "lastname": "Malviya",
+      "about": "Data Science Enthusiast",
+      "image": "https://github.com/Arunim.png"
+    },
+    {
+      "github": "nishantjain10",
+      "firstname": "Nishant",
+      "lastname": "Jain",
+      "about": "Frontend Engineer | Open Source Contributor",
+      "image": "https://avatars.githubusercontent.com/u/89480234?v=4"
     }
   ]
 }
