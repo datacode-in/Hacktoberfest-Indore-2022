@@ -143,6 +143,13 @@
       "lastname": "Jain",
       "about": "Frontend Engineer | Open Source Contributor",
       "image": "https://avatars.githubusercontent.com/u/89480234?v=4"
+    },
+    {
+      "github": "Soham-KT",
+      "firstname": "Soham",
+      "lastname": "Kothari",
+      "about": "Student | ML Enthusiast",
+      "image": "https://github.com/Soham-KT.png"
     }
   ]
 }
