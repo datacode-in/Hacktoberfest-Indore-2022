@@ -72,5 +72,21 @@
       "about": "Student",
       "image": "https://github.com/AddyDevil.png"
     }
+    ,
+    {
+      "github": "Arunim313",
+      "firstname": "Arunim",
+      "lastname": "Malviya",
+      "about": "Data Science Enthusiast",
+      "image": "https://github.com/Arunim.png"
+    }
+    ,
+    {
+      "github": "Arunim313",
+      "firstname": "Arunim",
+      "lastname": "Malviya",
+      "about": "Data Science Enthusiast",
+      "image": "https://github.com/Arunim.png"
+    }
   ]
 }
