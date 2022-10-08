@@ -2,10 +2,17 @@
   "data": [
     {
       "github": "srashtisj",
-      "firstname": "shrashti",
+      "firstname": "Srashti",
       "lastname": "Jain",
       "about": "Founder TechVraksh | Google Developer Expert (Angular)",
       "image": "https://github.com/srashtisj.png"
+    },
+    {
+      "github": "Samkit1707",
+      "firstname": "Samkit",
+      "lastname": "Jain",
+      "about": "Devoloper of C++ and JAVA|HTML AND CSS",
+      "image": "https://github.com/Samkit1707.png"
     },
     {
       "github": "Shivu7889",
