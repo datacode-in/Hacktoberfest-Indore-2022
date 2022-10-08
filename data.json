@@ -429,6 +429,13 @@
       "lastname": "Chouhan",
       "about": "B.Tech Student from AITR, Java Enthusiast|",
       "image": "https://github.com/Jessica-0103.png"
+    },
+    {
+      "github": "Akmalfauzi",
+      "firstname": "Akmal",
+      "lastname": "Fauzi",
+      "about": "Web Developer",
+      "image": "https://github.com/Akmalfauzi.png"
     }
   ]
 }
