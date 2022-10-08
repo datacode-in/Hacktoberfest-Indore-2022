@@ -6,6 +6,13 @@
       "lastname": "Jain",
       "about": "Founder TechVraksh | Google Developer Expert (Angular)",
       "image": "https://github.com/srashtisj.png"
+    },
+    {
+      "github": "mukundsolanki",
+      "firstname": "Mukund",
+      "lastname": "Solanki",
+      "about": "Competitive programmer and web developer",
+      "image": "https://github.com/mukundsolanki.png"
     }
   ]
 }
