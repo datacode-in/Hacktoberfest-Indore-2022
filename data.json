@@ -2,10 +2,17 @@
   "data": [
     {
       "github": "srashtisj",
-      "firstname": "Srashti",
+      "firstname": "Srashti ",
       "lastname": "Jain",
       "about": "Founder TechVraksh | Google Developer Expert (Angular)",
       "image": "https://github.com/srashtisj.png"
+    },
+    {
+      "github": "GOS",
+      "firstname": "Abhinav ",
+      "lastname": "Sharma",
+      "about": "Founder Global Offensive Seurity | Cyber Crime & Cyber Fraud Expert (Certified by Indian Government)",
+      "image": "https://github.com/abhinavsharm.png"
     }
   ]
 }
