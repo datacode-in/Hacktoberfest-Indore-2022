@@ -213,6 +213,13 @@
       "lastname": "Singh",
       "about": "Developer",
       "image": "https://github.com/Aayushisinghh.png"
+    },
+    {
+      "github": "saransh484",
+      "firstname": "Saransh",
+      "lastname": "Bhatnagar",
+      "about": "Video editor and Learning Data Science and Lua",
+      "image": "https://github.com/saransh484.png"
     }
   ]
 }
