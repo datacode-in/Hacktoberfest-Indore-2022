@@ -6,6 +6,15 @@
       "lastname": "Jain",
       "about": "Founder TechVraksh | Google Developer Expert (Angular)",
       "image": "https://github.com/srashtisj.png"
+    },
+ 
+    {
+      "github":"atharvagadkari05",
+      "firstname":"Atharva",
+      "lastname":"Gadkari",
+      "about":"Backend Developer | Open-Source Contributor @AsyncAPI",
+      "image":"https://github.com/atharvagadkari05.png"
     }
+ 
   ]
 }
