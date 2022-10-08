@@ -171,6 +171,27 @@
       "lastname": "Samai",
       "about": "Frontend Web Developer",
       "image": "https://avatars.githubusercontent.com/u/87236576?v=4"
+    },
+    {
+      "github": "ravish036",
+      "firstname": "Ravish",
+      "lastname": "Satwani",
+      "about": "Web Devloper | Tech Enthusiast ",
+      "image": "https://github.com/ravish036.png"
+    },
+    {
+      "github": "shristigupta12",
+      "firstname": "Shristi",
+      "lastname": "Gupta",
+      "about": "Problem Solver | Frontend learner | Tech Enthusiast",
+      "image": "https://github.com/shristigupta12.png"
+    },
+    {
+      "github": "Mradula-Mittal",
+      "firstname": "Mradula",
+      "lastname": "Mittal",
+      "about": "Technical Content Writer | Django Developer",
+      "image": "https://github.com/Mradula-Mittal.png"
     }
   ]
 }
