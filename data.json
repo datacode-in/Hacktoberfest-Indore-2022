@@ -8,6 +8,27 @@
       "image": "https://github.com/srashtisj.png"
     },
     {
+      "github": "lakshdilliwal",
+      "firstname": "laksh",
+      "lastname": "dilliwal",
+      "about": "Final year CSE Undergrad, and developer",
+      "image": "https://avatars.githubusercontent.com/u/71916813?s=400&v=4"
+    },
+    {
+      "github": "sonejamohit",
+      "firstname": "Mohit",
+      "lastname": "Soneja",
+      "about": "Co-Founder MinimalHolic | Product Associate (AstroAnalytics) | Overall Head E-Cell IET DAVV",
+      "image": "https://github.com/sonejamohit.png"
+    },
+    {
+      "github": "mukundsolanki",
+      "firstname": "Mukund",
+      "lastname": "Solanki",
+      "about": "Competitive programmer and web developer",
+      "image": "https://github.com/mukundsolanki.png"
+    },
+    {
       "github": "Jaspreet099",
       "firstname": "Jaspreet Singh",
       "lastname": "Saini",
@@ -70,7 +91,13 @@
       "about": "Competetive coder | Web developer",
       "image": "https://github.com/K-Daksh.png"
     },
-
+    {
+      "github": "Disha-25",
+      "firstname": "Disha",
+      "lastname": "Chouhan",
+      "about": "Competetive coder | Web developer | UI/UX designer",
+      "image": "https://github.com/Disha-25.png"
+    },
     {
       "github": "atharvagadkari05",
       "firstname": "Atharva",
@@ -191,7 +218,7 @@
       "firstname": "Ravish",
       "lastname": "Satwani",
       "about": "Web Devloper | Tech Enthusiast ",
-      "image": "https://github.com/ravish036.png
+      "image": "https://github.com/ravish036.png"
     },
     {
       "github": "shristigupta12",
@@ -298,19 +325,96 @@
       "about": "Web Devloper | Tech Enthusiast ",
       "image": "https://github.com/ravish036.png"
     },
-     {
+    {
       "github": "Rsr0",
       "firstname": "Sahil",
       "lastname": "Rana",
       "about": "Software Engineer | Data Science Enthusiast ",
       "image": "https://github.com/Rsr0.png"
-    }
-    ,{
+    },
+    {
       "github": "Lavesh-Sharma",
       "firstname": "Lavesh",
       "lastname": "Sharma",
       "about": "I am into web 3",
       "image": "https://avatars.githubusercontent.com/u/111641059?v=4 "
+    },
+    {
+      "github": "sachinmmane",
+      "firstname": "Sachin",
+      "lastname": "Mane",
+      "about": "Supersouring | FrontEnd Developer (Angular)",
+      "image": "https://github.com/sachinmmane.png"
+    },
+    {
+      "github": "prajapatsumit1015",
+      "firstname": "Sumit",
+      "lastname": "Prajapat",
+      "about": " Back-End Developer Expert (Node.JS)",
+      "image": "https://github.com/prajapatsumit1015.png"
+    },
+    {
+      "github": "killerboychetan",
+      "firstname": "Chetan",
+      "lastname": "Patel",
+      "about": "Student IIPS Davv",
+      "image": "https://github.com/killerboychetan.png"
+    },
+    {
+      "github": "anupriyajain595",
+      "firstname": "Anupriya",
+      "lastname": "Jain",
+      "about": "Frontend-Developer | Leaner | Explorer",
+      "image": "https://avatars.githubusercontent.com/u/86339110?s=400&u=39f216242b7cdf7982d2abbf8487f6e293d4d87a&v=4"
+    },
+    {
+      "github": "YogitaPatidar",
+      "firstname": "Yogita ",
+      "lastname": "Patidar",
+      "about": "Founder TechVraksh | Google Developer Expert (Angular)",
+      "image": "https://github.com/YogitaPatidar.png"
+    },
+    {
+      "github": "sakshi7prajapat",
+      "firstname": "Sakshi",
+      "lastname": "Prajapat",
+      "about": "Student/SVVV",
+      "image": "https://github.com/sakshi7prajapat.png"
+    },
+    {
+      "github": "DrishtiLalwani",
+      "firstname": "Drishti",
+      "lastname": "Lalwani",
+      "about": "Student | Acropolis Institute of Technology and Research",
+      "image": "https://github.com/DrishtiLalwani.png"
+    },
+    {
+      "github": "Ps1231",
+      "firstname": "Priyanshi",
+      "lastname": "Soni",
+      "about": "2nd year student at IIPS-DAVV ",
+      "image": "https://github.com/Ps1231.png"
+    },
+    {
+      "github": "devxnsh",
+      "firstname": "Devansh",
+      "lastname": "Ramdurgekar",
+      "about": "Founder MEDOC | BTech SGSITS ECE '2026",
+      "image": "https://github.com/devxnsh.png"
+    },
+    {
+      "github": "himanshi2312",
+      "firstname": "Himanshi",
+      "lastname": "Joshi",
+      "about": "Btech student at Devi Ahilya Vishwa vidyalaya Indore",
+      "image": "https://github.com/himanshi2312.png"
+    },
+    {
+      "github": "C-wad22",
+      "firstname": "chaitanya",
+      "lastname": "wadnerkar",
+      "about": "devloper of c++ java  | kotlin Developer Expert (Angular)",
+      "image": "https://github.com/C-wad22.png"
     }
   ]
 }
