@@ -191,7 +191,7 @@
       "firstname": "Ravish",
       "lastname": "Satwani",
       "about": "Web Devloper | Tech Enthusiast ",
-      "image": "https://github.com/ravish036.png"
+      "image": "https://github.com/ravish036.png
     },
     {
       "github": "shristigupta12",
@@ -304,6 +304,13 @@
       "lastname": "Rana",
       "about": "Software Engineer | Data Science Enthusiast ",
       "image": "https://github.com/Rsr0.png"
+    }
+    ,{
+      "github": "Lavesh-Sharma",
+      "firstname": "Lavesh",
+      "lastname": "Sharma",
+      "about": "I am into web 3",
+      "image": "https://avatars.githubusercontent.com/u/111641059?v=4 "
     }
   ]
 }
