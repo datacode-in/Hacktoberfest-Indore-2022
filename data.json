@@ -7,15 +7,22 @@
       "about": "Founder TechVraksh | Google Developer Expert (Angular)",
       "image": "https://github.com/srashtisj.png"
     },
- 
     {
-      "github":"atharvagadkari05",
-      "firstname":"Atharva",
-      "lastname":"Gadkari",
-      "about":"Backend Developer | Open-Source Contributor @AsyncAPI",
-      "image":"https://github.com/atharvagadkari05.png"
+      "github": "K-Daksh",
+      "firstname": "Daksh",
+      "lastname": "Kitukale",
+      "about": "Competetive coder | Web developer",
+      "image": "https://github.com/K-Daksh.png"
     },
-    
+
+    {
+      "github": "atharvagadkari05",
+      "firstname": "Atharva",
+      "lastname": "Gadkari",
+      "about": "Backend Developer | Open-Source Contributor @AsyncAPI",
+      "image": "https://github.com/atharvagadkari05.png"
+    },
+
     {
       "github": "Psudopodiya",
       "firstname": "Chinmay",
@@ -101,6 +108,6 @@
       "lastname": "Jain",
       "about": "Frontend Engineer | Open Source Contributor",
       "image": "https://avatars.githubusercontent.com/u/89480234?v=4"
-    } 
+    }
   ]
 }
