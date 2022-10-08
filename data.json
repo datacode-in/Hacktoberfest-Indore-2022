@@ -6,6 +6,14 @@
       "lastname": "Jain",
       "about": "Founder TechVraksh | Google Developer Expert (Angular)",
       "image": "https://github.com/srashtisj.png"
+    },
+    {
+      "github": "geeky01adarsh",
+      "firstname": "Adarsh",
+      "lastname": "Sinha",
+      "about": "React Developer | CP Beginner",
+      "image": "https://github.com/geeky01adarsh.png"
     }
+
   ]
 }
