@@ -1,11 +1,17 @@
 {
-  "data": [
-    {
-      "github": "srashtisj",
-      "firstname": "Srashti",
-      "lastname": "Jain",
-      "about": "Founder TechVraksh | Google Developer Expert (Angular)",
-      "image": "https://github.com/srashtisj.png"
-    }
-  ]
+    "data": [{
+            "github": "srashtisj",
+            "firstname": "Srashti",
+            "lastname": "Jain",
+            "about": "Founder TechVraksh | Google Developer Expert (Angular)",
+            "image": "https://github.com/srashtisj.png"
+        },
+        {
+            "github": "sonejamohit",
+            "firstname": "Mohit",
+            "lastname": "Soneja",
+            "about": "Co-Founder MinimalHolic | Product Associate (AstroAnalytics) | Overall Head E-Cell IET DAVV",
+            "image": "https://github.com/sonejamohit.png"
+        }
+    ]
 }
