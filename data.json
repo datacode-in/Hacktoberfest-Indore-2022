@@ -8,6 +8,13 @@
       "image": "https://github.com/srashtisj.png"
     },
     {
+      "github": "Jaspreet099",
+      "firstname": "Jaspreet Singh",
+      "lastname": "Saini",
+      "about": "Graphic and UI Designer | Magazine Designer @Indianpreneur",
+      "image": "https://avatars.githubusercontent.com/u/75212002?s=400&u=ceb31a3c3e8b9ea75df517bd6b3a1fb1cbb76339&v=4"
+    },
+    {
       "github": "priyanshi1282",
       "firstname": "Priyanshi",
       "lastname": "Agrawal",
@@ -227,6 +234,69 @@
       "lastname": "Chourasia ",
       "about": "Go Developer",
       "image": "https://avatars.githubusercontent.com/u/78140690?v=4"
+    },
+    {
+      "github": "shristigupta12",
+      "firstname": "Shristi",
+      "lastname": "Gupta",
+      "about": "Problem Solver | Frontend learner | Tech Enthusiast",
+      "image": "https://github.com/shristigupta12.png"
+    },
+    {
+      "github": "darshanip",
+      "firstname": "Darshan",
+      "lastname": "Patidar",
+      "about": "System Engineer at TCS | Cloud | CyberSec",
+      "image": "https://github.com/darshanip.png"
+    },
+    {
+      "github": "yashsehgal",
+      "firstname": "Yash",
+      "lastname": "Sehgal",
+      "about": "Community Manager @HEKORS / Product Designer @AsyncAPI / UI Engineering God",
+      "image": "https://pbs.twimg.com/profile_images/1573222327248191489/MgHqzGz2_400x400.jpg"
+    },
+    {
+      "github": "ankitjainpiet",
+      "firstname": "Ankit",
+      "lastname": "Jain",
+      "about": "Working at PWC",
+      "image": "https://github.com/ankitjainpiet.png"
+    },
+    {
+      "github": "geeky01adarsh",
+      "firstname": "Adarsh",
+      "lastname": "Sinha",
+      "about": "React Developer | CP Beginner",
+      "image": "https://github.com/geeky01adarsh.png"
+    },
+    {
+      "github": "ayushsoni1010",
+      "firstname": "Ayush",
+      "lastname": "Soni",
+      "about": "SWE @Economize | Microsoft Learn Student Ambassador | Full Stack Developer",
+      "image": "https://github.com/ayushsoni1010.png"
+    },
+    {
+      "github": "rishabhdhawad",
+      "firstname": "Rishabh",
+      "lastname": "Dhawad",
+      "about": "Web Dev, DevOps, ML/AI Enthusiast ",
+      "image": "https://github.com/rishabhdhawad.png"
+    },
+    {
+      "github": "itsmohitx",
+      "firstname": "Mohit",
+      "lastname": "Jain",
+      "about": "",
+      "image": "https://github.com/itsmohitx.png"
+    },
+    {
+      "github": "ravish036",
+      "firstname": "Ravish",
+      "lastname": "Satwani",
+      "about": "Web Devloper | Tech Enthusiast ",
+      "image": "https://github.com/ravish036.png"
     }
   ]
 }
