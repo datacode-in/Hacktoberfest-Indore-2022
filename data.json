@@ -1,11 +1,17 @@
 {
-  "data": [
-    {
-      "github": "srashtisj",
-      "firstname": "Srashti",
-      "lastname": "Jain",
-      "about": "Founder TechVraksh | Google Developer Expert (Angular)",
-      "image": "https://github.com/srashtisj.png"
-    }
-  ]
+    "data": [{
+            "github": "srashtisj",
+            "firstname": "Srashti",
+            "lastname": "Jain",
+            "about": "Founder TechVraksh | Google Developer Expert (Angular)",
+            "image": "https://github.com/srashtisj.png"
+        },
+        {
+            "github": "vinaypanwar280",
+            "firstname": "Vinay",
+            "lastname": "Panwar",
+            "about": "Software Engineer | Student | Self Enthusiast",
+            "image": "https://avatars.githubusercontent.com/u/68241820?v=4"
+        }
+    ]
 }
