@@ -332,6 +332,13 @@
       "lastname": "Mane",
       "about": "Supersouring | FrontEnd Developer (Angular)",
       "image": "https://github.com/sachinmmane.png"
+    },
+    {
+      "github": "prajapatsumit1015",
+      "firstname": "Sumit",
+      "lastname": "Prajapat",
+      "about": " Back-End Developer Expert (Node.JS)",
+      "image": "https://github.com/prajapatsumit1015.png"
     }
   ]
 }
