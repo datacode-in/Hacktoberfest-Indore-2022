@@ -8,21 +8,27 @@
       "image": "https://github.com/srashtisj.png"
     },
     {
-
+      "github": "lakshdilliwal",
+      "firstname": "laksh",
+      "lastname": "dilliwal",
+      "about": "Final year CSE Undergrad, and developer",
+      "image": "https://avatars.githubusercontent.com/u/71916813?s=400&v=4"
+    },
+    {
       "github": "sonejamohit",
       "firstname": "Mohit",
       "lastname": "Soneja",
       "about": "Co-Founder MinimalHolic | Product Associate (AstroAnalytics) | Overall Head E-Cell IET DAVV",
       "image": "https://github.com/sonejamohit.png"
-},
-{
+    },
+    {
       "github": "mukundsolanki",
       "firstname": "Mukund",
       "lastname": "Solanki",
       "about": "Competitive programmer and web developer",
       "image": "https://github.com/mukundsolanki.png"
-},
-{
+    },
+    {
       "github": "Jaspreet099",
       "firstname": "Jaspreet Singh",
       "lastname": "Saini",
@@ -136,7 +142,6 @@
       "lastname": "kumrawat",
       "about": "IIPS DAVV | Quick Learner  | Android developer |",
       "image": "https://github.com/palak-k5.png"
-
     },
     {
       "github": "paridhik010",
