@@ -2,10 +2,17 @@
   "data": [
     {
       "github": "srashtisj",
-      "firstname": "Srashti",
+      "firstname": "shrashti",
       "lastname": "Jain",
       "about": "Founder TechVraksh | Google Developer Expert (Angular)",
       "image": "https://github.com/srashtisj.png"
-    }
-  ]
+    },{
+    
+    "github": "Shivu7889",
+    "firstname": "Shivam",
+    "lastname": "Patidar",
+    "about": "Founder of  Innotechzz | IPs ACADEMY",
+    "image": "images.jpg"
+ }
+ ]
 }
