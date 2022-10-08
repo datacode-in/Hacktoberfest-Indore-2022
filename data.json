@@ -13,6 +13,21 @@
       "lastname": "choudhary",
       "about": "Founder TechVraksh | Google Developer Expert (Angular)",
       "image": "https://github.com/GC9669.png"
+},
+
+    {
+      "github": "deepakpatel-7",
+      "firstname": "Deepak",
+      "lastname": "Patel",
+      "about": "web developer and competetive coder",
+      "image": "https://github.com/deepakpatel-7.png"
+},
+ {
+      "github": "Addy-Devil",
+      "firstname": "Aryan",
+      "lastname": "Dame",
+      "about": "Student",
+      "image": "https://github.com/AddyDevil.png"
     }
   ]
 }
