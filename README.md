@@ -44,4 +44,4 @@ Now deploy your changes to GitHub, type the following command provided below,
 ```
 git push
 ```
-Now, click on create Pull Request under the Contribute section and wait for getting it merged.Wait for it for getting merged and Boom!!! you just got your first PR merged.
+Now, open the repository in your browser, and click on create Pull Request under the Contribute section and wait for getting it merged. Wait for it for getting merged and Boom!!! you just got your first PR merged.
