@@ -220,6 +220,20 @@
       "lastname": "Bhatnagar",
       "about": "Video editor and Learning Data Science and Lua",
       "image": "https://github.com/saransh484.png"
+    },
+    {
+      "github": "JammUtkarsh",
+      "firstname": "Utkarsh",
+      "lastname": "Chourasia ",
+      "about": "Go Developer",
+      "image": "https://avatars.githubusercontent.com/u/78140690?v=4"
+    },
+    {
+      "github": "shristigupta12",
+      "firstname": "Shristi",
+      "lastname": "Gupta",
+      "about": "Problem Solver | Frontend learner | Tech Enthusiast",
+      "image": "https://github.com/shristigupta12.png"
     }
   ]
 }
