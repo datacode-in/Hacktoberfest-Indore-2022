@@ -7,6 +7,15 @@
       "about": "Founder TechVraksh | Google Developer Expert (Angular)",
       "image": "https://github.com/srashtisj.png"
     },
+ 
+    {
+      "github":"atharvagadkari05",
+      "firstname":"Atharva",
+      "lastname":"Gadkari",
+      "about":"Backend Developer | Open-Source Contributor @AsyncAPI",
+      "image":"https://github.com/atharvagadkari05.png"
+    },
+    
     {
       "github": "Psudopodiya",
       "firstname": "Chinmay",
@@ -87,18 +96,11 @@
       "image": "https://github.com/Arunim.png"
     },
     {
-      "github": "Arunim313",
-      "firstname": "Arunim",
-      "lastname": "Malviya",
-      "about": "Data Science Enthusiast",
-      "image": "https://github.com/Arunim.png"
-    }
-    {
       "github": "nishantjain10",
       "firstname": "Nishant",
       "lastname": "Jain",
       "about": "Frontend Engineer | Open Source Contributor",
       "image": "https://avatars.githubusercontent.com/u/89480234?v=4"
-    }
+    } 
   ]
 }
