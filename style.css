@@ -1,10 +1,14 @@
+@keyframes my-animation{
+  to{
+  box-shadow: rgba(137, 43, 226, 0.409) 0px 1px 3px 1px, blueviolet 0px 1px 2px 0px;
+
+  }
+}
 body {
   font-family: "Segoe UI", sans-serif;
 }
 
-h1,
-h2,
-p {
+h1, h2, p {
   text-align: center;
 }
 
@@ -17,6 +21,12 @@ h1 {
 
 h2 {
   color: #323333;
+  border-radius: 10px;
+  box-shadow: blueviolet 0px 1px 2px 0px, rgba(137, 43, 226, 0.409) 0px 1px 3px 1px;
+  padding: 10px 20px;
+  width: fit-content;
+  margin: auto;
+  animation: my-animation 2s infinite;
 }
 
 footer > p {
