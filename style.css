@@ -2,9 +2,7 @@ body {
   font-family: "Segoe UI", sans-serif;
 }
 
-h1,
-h2,
-p {
+h1, h2, p {
   text-align: center;
 }
 
