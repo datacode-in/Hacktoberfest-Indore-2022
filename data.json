@@ -431,11 +431,18 @@
       "image": "https://github.com/Jessica-0103.png"
     },
     {
+      "github": "Atharv-110",
+      "firstname": "Atharv",
+      "lastname": "Vani",
+      "about": "Tech Explorer | Open Source",
+      "image": "https://github.com/Atharv-110.png"
+    },
+    {
       "github": "kunal15112001",
       "firstname": "KUNAL",
       "lastname": "BHADE",
       "about": "I am a Tech Enthusiast and always try to learn new things.",
       "image": "https://github.com/kunal15112001.png"
-    },
+    }
   ]
 }
