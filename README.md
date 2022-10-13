@@ -19,9 +19,26 @@ Contributions can be code updates, but not always. You may assist any open sourc
 We, as a community, are attempting to connect with community experts and members while also assisting one another in learning about open source. Why is it important, and how might it help you in the future?
 
 ## How to contribute?
+**1.** Fork the <a href="https://github.com/datacode-in/Hacktoberfest-Indore-2022.git">repository</a> by clicking fork symbol at the top right corner.
 
-Fork this repository from the **Fork** button available at the top right corner of this page. A forked repository would be created affiliated to your account. Now open the command line on your device, add type the command(requires git installed on your system)
-`git clone your_repository_link`, replace your_repository_link with your repository's link, for e.g., https://github.com/geeky01adarsh/Hacktoberfest-Indore-2022.git. Now, in the data.json file, add your data information in below provided in json format,
+A forked repository would be created affiliated to your account. Now open the command line on your device, add type the commands(requires git installed on your system)
+
+**2.** Clone the forked repository.
+```
+   git clone https://github.com/<your-github-id>/Hacktoberfest-Indore-2022.git
+```
+
+**3.** Navigate to the project directory.
+```
+   cd Hacktoberfest-Indore-2022
+```
+
+**4.** Create a new branch:
+```
+   git checkout -b <Add your branch name>
+```
+
+**5.** Now, in the data.json file, add your data information in below provided in json format,
 
 ```
 {
@@ -32,16 +49,26 @@ Fork this repository from the **Fork** button available at the top right corner 
     "image": "https://github.com/<your_github_user_id>.png"
 }
 ```
-Now save your file, add it to staged area using the commond, 
+**6.** Now save your file, add it to staged area using the commond, 
 ```
 git add .
 ```
-Now, your data is staged, now you can commit it to make the changes final. Use the command provided below,
+**7.** Now, your data is staged, now you can commit it to make the changes final. Use the command provided below,
 ```
 git commit -m "your message"
 ```
-Now deploy your changes to GitHub, type the following command provided below,
+Now deploy your changes to GitHub.
+Push your changes using the command `git push`:
 ```
-git push
+git push origin -u <add-your-branch-name>
 ```
-Now, open the repository in your browser, and click on create Pull Request under the Contribute section and wait for getting it merged. Wait for it for getting merged and Boom!!! you just got your first PR merged.
+
+**8.** Submit your changes for review: 
+
+If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+
+Now submit the pull request.
+
+Soon all your changes will be merged into the master branch of this project. You will get a notification email once the changes have been merged.
+
+Boom!!! you just got your first PR merged.
