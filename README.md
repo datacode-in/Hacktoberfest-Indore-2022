@@ -18,6 +18,13 @@ Contributions can be code updates, but not always. You may assist any open sourc
 
 We, as a community, are attempting to connect with community experts and members while also assisting one another in learning about open source. Why is it important, and how might it help you in the future?
 
+---
+⚠️ **NOTE**
+
+We are only excepting data.json PR from the people who attended our OFFLINE event.
+
+---
+
 ## How to contribute?
 **1.** Fork the <a href="https://github.com/datacode-in/Hacktoberfest-Indore-2022.git">repository</a> by clicking fork symbol at the top right corner.
 
