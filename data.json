@@ -450,6 +450,13 @@
       "lastname": "BHADE",
       "about": "I am a Tech Enthusiast and always try to learn new things.",
       "image": "https://github.com/kunal15112001.png"
+    },
+    {
+      "github": "luvksahu",
+      "firstname": "Luv",
+      "lastname": "Sahu",
+      "about": "Java programmer | Android Developer",
+      "image": "https://github.com/luvksahu.png"
     }
   ]
 }
