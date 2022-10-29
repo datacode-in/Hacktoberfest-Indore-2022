@@ -457,6 +457,13 @@
       "lastname": "Savner",
       "about": "I am a Student who likes web development.",
       "image": "https://github.com/Ayushsav.png"
+    },
+    {
+      "github": "AnshDeep24",
+      "firstname": "AnshDeep",
+      "lastname": "Yadav",
+      "about": "I am a Student who likes web development.",
+      "image": "https://github.com/AnshDeep24.png"
     }
   ]
 }
