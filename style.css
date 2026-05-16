@@ -6,6 +6,13 @@
 }
 body {
   font-family: "Segoe UI", sans-serif;
+  margin: 0;
+}
+
+.page-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 h1, h2, p {
@@ -24,7 +31,6 @@ h2 {
   border-radius: 10px;
   box-shadow: blueviolet 0px 1px 2px 0px, rgba(137, 43, 226, 0.409) 0px 1px 3px 1px;
   padding: 10px 20px;
-  width: fit-content;
   margin: auto;
   animation: my-animation 2s infinite;
 }
@@ -39,7 +45,16 @@ a {
 }
 
 #table {
-  margin: 50px 50px;
+  max-width: 1300px;
+  margin: 50px 0;
+}
+
+#table img {
+  border-radius: 50%;
+}
+
+#table a:hover {
+  color: blueviolet;
 }
 
 .table-body {
